@@ -1,6 +1,6 @@
 // BCRTI payment configuration. Update these values when your Square link/business email are ready.
 window.BCRTI_PAYMENT = {
-  squarePaymentLink: "UPDATE_SQUARE_PAYMENT_LINK",
+  squarePaymentLink: "https://square.link/u/NWIu3JhL",
   invoiceEmail: "UPDATE_BCRTI_EMAIL"
 };
 
