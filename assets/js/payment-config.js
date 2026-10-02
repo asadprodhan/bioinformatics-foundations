@@ -3,7 +3,7 @@
 // Allowed values: "coming-soon", "interest", "open", "closed"
 window.BCRTI_ENROLMENT = {
   enrolmentStatus: "interest",
-  interestEmail: "prodhan82@gmail.com"
+  interestEmail: "asad.prodhan@bcrti.org"
 };
 
 window.BCRTI_PAYMENT = {
